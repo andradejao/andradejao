@@ -1,4 +1,10 @@
-<h2 align="center">Olá, me chamo João Vitor Andrade! 👋</h2>
+<h1 align="left">Olá, me chamo João Vitor Andrade! 👋</h1>
+
+###
+
+<h3>Sobre mim</h3>
+Sou um desenvolvedor em constante evolução, sempre em busca de aprender e experimentar novas tecnologias. Tenho um forte interesse em desenvolvimento web e adoro trabalhar em projetos desafiadores.
+
 
 ###
 
@@ -13,6 +19,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/RSIhGRFGGCgAAAAM/halo-master-chief.gif"  />
 
+###
 ###
 
 <div align="left">
